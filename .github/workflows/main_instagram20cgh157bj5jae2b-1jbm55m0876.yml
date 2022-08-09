@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'instagram20cgH157Bj5Jae2B-1jBm55m0876'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3914C922162940C9BE5EF538E126D6D0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6F70DBCE9CCD4CE095999A0560FECB77 }}
           package: .
